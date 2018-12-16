@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MedicalApplicationProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="content">Loading...</string>
+
+
+    <string-array name="doctor_types">
+        <item>Select Doctor Type</item>
+        <item>Dermatologist</item>
+        <item>Dentist</item>
+        <item>Neurologist</item>
+        <item>Cardiologist</item>
+        <item>Pathologist</item>
+    </string-array>
+
+    <string-array name="blood_groups">
+        <item>Select Blood Group</item>
+        <item>AB +ive</item>
+        <item>AB -ive</item>
+        <item>B +ive</item>
+        <item>B -ive</item>
+        <item>A +ive</item>
+        <item>A -ive</item>
+        <item>O +ive</item>
+        <item>O -ive</item>
+
+    </string-array>
+
+</resources>
